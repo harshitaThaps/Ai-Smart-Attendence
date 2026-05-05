@@ -5,8 +5,8 @@ from streamlit_option_menu import option_menu
 from settings import *
 
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
-st.set_option('deprecation.showfileUploaderEncoding', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showfileUploaderEncoding', False)
 
 
 st.sidebar.markdown("""
